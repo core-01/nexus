@@ -1,7 +1,7 @@
 {
-  "name": "project-x",
+  "name": "nexus",
   "version": "1.0.0",
-  "homepage": "https://core-01.github.io/project-x",
+  "homepage": "https://core-01.github.io/nexus",
   "private": true,
   "dependencies": {
     "firebase": "^11.4.0",
